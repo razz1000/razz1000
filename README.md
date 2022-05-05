@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I am Rasmus. I love coding in JavaScript, React, CSS and HTML. 
+I am Rasmus. I love coding in React, JavaScript, CSS and HTML. 
 
 I have lived and worked in multiple countries, including Germany where I have undertaken tasks for companies such as Rocket Internet and PUMA.
 
